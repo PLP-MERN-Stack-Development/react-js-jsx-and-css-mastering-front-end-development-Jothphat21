@@ -1,6 +1,6 @@
  # Task Manager — React + Vite + Tailwind
 
- **Live demo (replace after deploy):** https://your-deployment-url.vercel.app
+ **Live demo -  https://plp-mern-stack-development.github.io/react-js-jsx-and-css-mastering-front-end-development-Jothphat21/
 
  A small React application built with Vite and Tailwind CSS that demonstrates component architecture, hooks, and a simple API integration.
 
