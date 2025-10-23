@@ -5,7 +5,7 @@ import { defineConfig } from "vite"
 
 // https://vite.dev/config/
 export default defineConfig({
-  base: "/react-js-jsx-and-css-mastering-front-end-development/",
+  base: "/react-js-jsx-and-css-mastering-front-end-development-Jothphat21/",
   plugins: [react(), tailwindcss()],
   resolve: {
     alias: {
